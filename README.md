@@ -79,7 +79,16 @@ Through this project, I developed practical experience in:
 - Data presentation
 - Privacy-conscious software design
 - Testing and iterative improvement
+## 📱 Application Screenshots
 
+### Daily Activity Dashboard
+<img src="./Screenshot_٢٠٢٦-٠٩-١٤-٠١-٠١-٣٧-٨٨٦_com.vitalx.app.jpg" width="300">
+
+### GPS Workout Tracking
+<img src="./Screenshot_٢٠٢٦-٠٩-١٤-٠١-٠٢-٢٩-٠٩٣_com.vitalx.app.jpg" width="300">
+
+### Local Training Center
+<img src="./Screenshot_٢٠٢٦-٠٩-١٤-٠١-٠٢-٣٨-٩٠٩_com.vitalx.app.jpg" width="300">
 ## 🚀 Future Development
 
 My long-term goal is to expand VITAL X with more advanced activity analytics and intelligent fitness features.
